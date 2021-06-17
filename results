@@ -1,0 +1,206 @@
+
+ _   _ _   _ _____ _       _           _             
+| | | | | | |_   _(_)     (_)         | |            
+| |_| | |_| | | |  _ _ __  _  ___  ___| |_ ___  _ __ 
+|  _  |  _  | | | | | '_ \| |/ _ \/ __| __/ _ \| '__|
+| | | | | | |_| |_| | | | | |  __/ (__| || (_) | |   
+\_| |_|_| |_/\___/|_|_| |_| |\___|\___|\__\___/|_|   
+                         _/ |                        
+                        |__/                         
+
+made by Ismael Gómez Esquilichi
+
+http://analiticasurjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://asistencia.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://avit.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://aulavirtual.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://ayuda.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://bigdata.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://brain.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://burjcdigital.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://certificados.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://certificadosd.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://certificados.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://chemistry.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://ciberseguridad.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://cied.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://contenidosp.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://consultas.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://contratacion.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://controlmat.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://cui.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://deportes.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://devtv.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://dolorlumbar.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://e-administracion.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://eciencia.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://eduroam.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://emprendimiento.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://encuestas.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://energiainteligente.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://estadisticas.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://estadisticasp.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://fdmgs.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://formaciononline.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gallegos.gsyc.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gc-autor.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gc-pumoodle.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gc-admin.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gc-engage.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gc-comander.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gente.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gestion.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gestion2.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gestion3.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gestion4.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gestion5.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://gestionespacios.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://info.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://informaticacuesa.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://insignias.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://insigniasd.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://infotic.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://investigacion.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://jabato.etsii.urjc.es VULNERABLE changing Host Header :)
+Host changes reflects on victim HTML
+
+http://laimbio09.escet.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://medialab1.cct.urjc.es VULNERABLE changing Host Header :)
+Host changes reflects on victim HTML
+
+http://miportal.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://moodled.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://moodlep.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://nasd122.cs.urjc.es VULNERABLE changing Host Header :)
+Host changes reflects on victim HTML
+
+http://neurocienciaempresarial.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://oc-adm.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://oc-engage.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://oc-ingest.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://online.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://osb.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://osbp.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://papi.urjc.es VULNERABLE changing Host Header :)
+Host changes reflects on victim HTML
+
+http://papi.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://portafirmas.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://portafirmas4.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://preview-urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://preview-urjcxd.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://pretv.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://radio.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://ria08.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://savit.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://sede.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://servicios.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://soporte.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://sso.tv.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://stream.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://sso2.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://studio.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://studiod.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://transparencia.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://transporteinteligente.urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://tv.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://urjcx-pre-insights.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://urjcx.urjc.es VULNERABLE to open redirection via changing Host Header
+
+http://urjcxd.urjc.es VULNERABLE to open redirection via changing Host Header
+
+https://burjcdigital.urjc.es VULNERABLE changing Host Header :)
+Host changes reflects on victim HTML
+
+https://eciencia.urjc.es VULNERABLE changing Host Header :)
+Host changes reflects on victim HTML
+
+https://jabato.etsii.urjc.es VULNERABLE changing Host Header :)
+Host changes reflects on victim HTML
+
+https://pamina.gsyc.urjc.es VULNERABLE changing Host Header :)
+Host changes reflects on victim HTML
+
