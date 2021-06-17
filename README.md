@@ -14,8 +14,8 @@ To use the tool you only have to:
    
  3. Use main.py 
     
-    python3 main.py -l comma_separated_links.txt
-    python3 main.oy -u http(s)://url_to_test
+    python3 main.py -l comma_separated_links.txt /
+    python3 main.py -u http(s)://url_to_test
     
     
     
