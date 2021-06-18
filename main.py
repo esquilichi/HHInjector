@@ -87,8 +87,8 @@ def attack_url(url):
     i = 0
     for c in initial_text:
         i += 1
-    web_cache_attack(url.encode('ascii', errors='ignore'), i)
-    redirected_attack(url.encode('ascii', errors='ignore'))
+    web_cache_attack(url.strip(), i)
+    redirected_attack(url.strip())
 
 
 banner = """
