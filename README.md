@@ -25,4 +25,4 @@ VERY IMPORTANT
 Sometimes servers behave in one way or another depending if you make the http request or https.
 I recommend to make a list of all domains you want to test with both protocols.
 
-!Happy Hacking!
+Happy Hacking!
